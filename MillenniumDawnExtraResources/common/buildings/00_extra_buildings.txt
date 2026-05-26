@@ -1,0 +1,5 @@
+buildings = {
+    agriculture_district = {
+        local_resources_food = 5
+    }
+}
